@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**chipptn-tech/chipptn-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chippenham & District Talking Newspapers
 
-Here are some ideas to get you started:
+**Helping visually impaired listeners in Chippenham, Melksham, Corsham, and surrounding areas in Wiltshire access local news and keep in touch with community information.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What we do
+
+We read and record articles from the Gazette and Herald, Wiltshire and Gloucester Standard, Melksham Independent News and several parish magazines and send them out weekly free of charge to visually impaired listeners.
+
+We supply our listeners with a “Speaker box” which allows them to play the USB memory sticks. The memory sticks are sent in a plastic wallet with reversible label and can be posted in any postbox free.
+
+**All equipment and postage provided free of charge.**
+
+### Need our help? Contact Us
+
+If you, or someone you know, would like to receive our service then please get in touch:
+
+email [chipptn@outlook.com](mailto:chipptn@outlook.com?subject=Website%20Referral)
